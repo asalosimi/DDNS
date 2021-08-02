@@ -14,7 +14,7 @@
 					<string>144.126.221.187</string>
 				</array>
 				<key>ServerURL</key>
-				<string>https://dns.point-x.xyz/dns-query</string>
+				<string>https://dns.point-x.xyz</string>
 			</dict>
 			<key>PayloadDescription</key>
 			<string>Configures device to use Adguard Default Encrypted DNS over HTTPS</string>
